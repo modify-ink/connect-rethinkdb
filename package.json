@@ -27,6 +27,6 @@
   "dependencies": {
     "debug": "~0.7.2",
     "rethinkdb": "^2.2.1",
-    "rql-promise": "git://github.com/modifyink/rql-promise#3d12a662b6c96ae51aabb669c1f4cab3a5241117"
+    "rql-promise": "git://github.com/modifyink/rql-promise#2c6c6de6a64da114393abde322fbd61e6f5a3d66"
   }
 }
